@@ -1,16 +1,12 @@
-### Hi there 👋
+### Welcome to my profile.
+If you would like to contact me, stalk my profile,<br>
+or anything along those lines, do so via these links.
+- Website: [Orbiting](https://orbiting.com/)
+- Twitter: [@TheMechite](https://twitter.com/TheMechite)
+- Email: [&#099;&#111;&#110;&#116;&#097;&#099;&#116;&#064;&#109;&#101;&#099;&#104;&#105;&#116;&#101;&#046;&#099;&#111;&#109;](mailto:&#099;&#111;&#110;&#116;&#097;&#099;&#116;&#064;&#109;&#101;&#099;&#104;&#105;&#116;&#101;&#046;&#099;&#111;&#109;)
+- Discord: Orbiting#5085
+- Telegram: @orbitingtheearth
 
-<!--
-**orbitingtheearth/orbitingtheearth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you are contacting me regarding a security issue in any<br/>
+network/system I run, please protect your communications<br/>
+by using a Telegram secret chat.
